@@ -1,8 +1,3 @@
-/*
-개발자 : 홍길동, 강감찬, 이순신
-개발일 : 2021.09.08.
-문의 : abcde@gmail.com
-*/
 
 #include <stdio.h>
 #include <string.h>
